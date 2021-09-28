@@ -1,8 +1,8 @@
 import java.io.*;
   
-class job{
+class jobB{
     public static void main(String[] args)
     {
-        System.out.println("Job Done");
+        System.out.println("Job2 Done");
     }
 }
