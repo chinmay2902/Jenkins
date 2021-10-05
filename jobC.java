@@ -1,6 +1,6 @@
 import java.io.*;
   
-class job{
+class jobC{
     public static void main(String[] args)
     {
         System.out.println("Job3 Done");
